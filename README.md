@@ -30,3 +30,17 @@ Para uma melhor organização as Medidas são concentradas em uma tabela com sub
   <img align="center" alt="SQL" height="40" width="40" src="https://github.com/LoranLorenzo/LoranLorenzo/blob/main/Imagens/logoSql.png?raw=trueraw=true">
   <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/LoranLorenzo/LoranLorenzo/blob/main/Imagens/logoPowerBi.png?raw=trueraw=true">
 </div>
+
+## Perguntas de Negócio
+### 1. Quais Lojas estão gerando mais receitas Online?<br>
+Contoso North America Online Store sendo destaque,  Contoso Asia Online Store, Contoso Europe Online Store.<br>
+### 2. O top 5 Categorias se mantém igual para todos os anos?<br>
+No ano de 2007 a Categoria "Cameras and camcorders " lidera o rank de Vendas, mas nos anos seguintes "Home Appliances" lidera.<br>
+### 3. A receita é maior quando há periodo de promoção?<br>
+Em geral a receita é maior quando não há promoção, porém em periodo de promoção a "North America Back-to-School Promotion" se destaca com maior receita.
+### 4. Qual o Produto mais vendido no acumulativo dos anos?<br>
+"Adventure Works 26" 720p LCD HDTV M140 Silver" sendo $ 117 milhões de Vendas.
+### 5. Qual A tendência entre Total de Vendas e Custo no decorrer do tempo?<br>
+Uma tendência ao afastamento sendo Vendas Positivas em relação custo.
+### 6. Qual Classe contribui com maior porcentagem para as receitas?<br>
+A Classe "Regular" com uma porcentagem de 60,9% e com total de Vendas acima de $1 Bi.
