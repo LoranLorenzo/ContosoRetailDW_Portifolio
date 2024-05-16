@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+C:/Users/loran/OneDrive/Documentos/ContosoRetailDW_Portifolio/ContosoRetailDW_Portifolio/PowerBI filter=lfs diff=lfs merge=lfs -text
+PROJETO[[:space:]]01_ContosoRetailDW.pbix filter=lfs diff=lfs merge=lfs -text
