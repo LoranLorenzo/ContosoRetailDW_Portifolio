@@ -40,7 +40,7 @@ No ano de 2007 a Categoria "Cameras and camcorders " lidera o rank de Vendas, ma
 Em geral a receita é maior quando não há promoção, porém em periodo de promoção a "North America Back-to-School Promotion" se destaca com maior receita.
 ### 4. Qual o Produto mais vendido no acumulativo dos anos?<br>
 "Adventure Works 26" 720p LCD HDTV M140 Silver" sendo $ 117 milhões de Vendas.
-### 5. Qual A tendência entre Total de Vendas e Custo no decorrer do tempo?<br>
+### 5. Qual a tendência entre Total de Vendas e Custo no decorrer do tempo?<br>
 Uma tendência ao afastamento sendo Vendas Positivas em relação custo.
 ### 6. Qual Classe contribui com maior porcentagem para as receitas?<br>
 A Classe "Regular" com uma porcentagem de 60,9% e com total de Vendas acima de $1 Bi.
