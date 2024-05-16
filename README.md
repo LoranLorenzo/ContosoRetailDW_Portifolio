@@ -33,7 +33,7 @@ Para uma melhor organização as Medidas são concentradas em uma tabela com sub
 
 ## Perguntas de Negócio
 ### 1. Quais Lojas estão gerando mais receitas Online?<br>
-Contoso North America Online Store sendo destaque,  Contoso Asia Online Store, Contoso Europe Online Store.<br>
+Contoso North America Online Store sendo destaque acima de $1 Bi, Contoso Asia Online Store, Contoso Europe Online Store.<br>
 ### 2. O top 5 Categorias se mantém igual para todos os anos?<br>
 No ano de 2007 a Categoria "Cameras and camcorders " lidera o rank de Vendas, mas nos anos seguintes "Home Appliances" lidera.<br>
 ### 3. A receita é maior quando há periodo de promoção?<br>
